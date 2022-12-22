@@ -1,0 +1,6 @@
+rm: não foi possível remover 'data/flametip.dat': Arquivo ou diretório inexistente
+rm: não foi possível remover 'data/error.dat': Arquivo ou diretório inexistente
+
+real	70m46,553s
+user	1861m39,604s
+sys	171m25,283s
